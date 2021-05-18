@@ -1,1 +1,1 @@
-alert("Hola mundo en JavaScript");
+alert("EDITADO");
